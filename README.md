@@ -1,9 +1,6 @@
 <a href="#" target="_blank">
 <img src="vid1.gif" width="840px" alt="VIDEO PROFILE" />
 </a>
-<br></br>
-______________________________________________________________________________________________________________________________
-<br></br>
 <h1>🧰 My toolbox</h1>
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="68px" alt="VIDEO PROFILE" />
