@@ -7,8 +7,6 @@
           <h2>String 57th & 9th</h2>
           <h2 class="singer"></h2>
         </header>
-
-        <!-- CD -->
         <div class="cd">
           <div
             class="cd-thumb"
