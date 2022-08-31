@@ -23,6 +23,6 @@
 <img class="vid-container" src="ins.gif" width="50%" alt="VIDEO PROFILE" />
 </a><a href="https://github.com/QuyZuong/" target="_blank">
 <img class="vid-container" src="git.gif" width="50%" alt="VIDEO PROFILE" />
-</a><a href="#" target="_blank">
+</a><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqnxJwWPkxKQrfqdfnkhmqLDfwwtlFMxGFWJwcwTsJWjxKVJCMCHHlhkvgptMbLhqTdH" target="_blank">
 <img class="vid-container" src="mail.gif" width="50%" alt="VIDEO PROFILE" />
 </a>
