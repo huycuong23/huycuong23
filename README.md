@@ -1,3 +1,4 @@
+<div style="user-select: none;">
 <a href="#" target="_blank">
 <img class="vid-container" src="vid.gif" width="100vw" alt="VIDEO PROFILE" />
 </a>
@@ -26,3 +27,4 @@
 </a><a href="https://contacts.google.com/person/c1715363649175095484" target="_blank">
 <img class="vid-container" src="mail.gif" width="50%" alt="VIDEO PROFILE" />
 </a>
+</div>
