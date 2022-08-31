@@ -1,12 +1,5 @@
-<style>
- @media screen and (max-width: 45em) {
-  .vid-container {
-    width: 840px;
-  }
-}
-</style>
 <a href="#" target="_blank">
-<img class="vid-container" src="vid.gif" width="840px" alt="VIDEO PROFILE" />
+<img style="@media screen and (max-width: 45em) {.vid-container {width: 440px;}}" class="vid-container" src="vid.gif" width="840px" alt="VIDEO PROFILE" />
 </a>
 <h1>🧰 My toolbox</h1>
 <div style="display: flex;">
