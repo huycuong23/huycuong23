@@ -2,7 +2,7 @@
 <img class="vid-container" src="vid.gif" width="100vw" alt="VIDEO PROFILE" />
 </a>
 <h1>🧰 My toolbox</h1>
-<div style="display: flex; width: 100vw;">
+<div style="display: flex; width: 100vw;background-image: url(background.png)">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="7.2%" alt="VIDEO PROFILE" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="7.2%" alt="VIDEO PROFILE" />
         <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/ExpressJS.png" width="7.2%" alt="VIDEO PROFILE" />
