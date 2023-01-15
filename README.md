@@ -1,6 +1,6 @@
 <div style="user-select: none;">
 <a href="#" target="_blank">
-<img class="vid-container" src="abc.gif" width="100vw" alt="VIDEO PROFILE" />
+<img class="vid-container" src="abc.gif" width="200vw" alt="VIDEO PROFILE" />
 </a>
 <h1>🧰 My toolbox</h1>
 <div style="display: flex; width: 100vw;">
