@@ -24,7 +24,7 @@
 <img class="vid-container" src="ins.gif" width="50%" alt="VIDEO PROFILE" />
 </a><a href="https://github.com/huycuong23/" target="_blank">
 <img class="vid-container" src="git.gif" width="50%" alt="VIDEO PROFILE" />
-</a><a href="https://www.google.com/search?q=inbox+gmail+cuongcuonghuy%40gmail.com&rlz=1C1ONGR_enVN1029VN1029&oq=inbox+gmail+cuongcuonghuy%40gmail.com&aqs=chrome..69i57j69i60j69i58.15496j0j9&sourceid=chrome&ie=UTF-8" target="_blank">
+</a><a href="mailto:cuongcuonghuy@gmail.com" target="top">
 <img class="vid-container" src="mail.gif" width="50%" alt="VIDEO PROFILE" />
 </a>
 </div>
