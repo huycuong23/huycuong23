@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
 <img class="vid-container" src="hhh.gif" width="1800px" alt="VIDEO PROFILE" />
 </a>
-<br>
+<hr>
 <h1>👆 Tap to access</h1>
 <a href="https://www.facebook.com/huycuong.23" target="_blank">
 <img class="vid-container" src="fac.gif" width="50%" alt="VIDEO PROFILE" />
