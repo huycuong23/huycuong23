@@ -10,4 +10,3 @@
 <img class="vid-container" src="mail.gif" width="50%" alt="VIDEO PROFILE" />
 </a>
 </div>
-<audio src="videoplayback.mp3" controls autoplay></audio>
