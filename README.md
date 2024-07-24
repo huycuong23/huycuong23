@@ -1,4 +1,4 @@
-<h1><a href="mailto:cuongcuonghuy@gmail.com" target="top">My Email</a></h1>
+<a href="mailto:cuongcuonghuy@gmail.com" target="top">My Email</a>
 <!-- <h1>👆 Tap to access</h1>
 <a href="https://www.facebook.com/huycuong.23" target="_blank">
 <img class="vid-container" src="fac.gif" width="50%" alt="VIDEO PROFILE" />
